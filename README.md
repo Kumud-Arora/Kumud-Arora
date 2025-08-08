@@ -1,5 +1,4 @@
-Hi there 👋
-****Kumud-Arora/Kumud-Arora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Kumud Arora
 
 🎓 I am an junior at UT Dallas, majoring in Computer Science and minoring in Business Administration.
 💻 Interests: Web Development, Machine Learning, Product Management, Project Management
